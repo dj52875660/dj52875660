@@ -4,8 +4,8 @@ optimizing processes, leading to a remarkable 33% boost in product quality. Pass
 business value through data insights. Eager to take on challenging roles and contribute to forward-thinking
 teams by implementing innovative problem-solving strategies.
 
-## Email
-![image](dj52875660@gmail.com)
+## Skill
+[![My Skills](https://skillicons.dev/icons?i=Python,html,css,wasm)](https://skillicons.dev)
 
 
 
