@@ -5,7 +5,7 @@ business value through data insights. Eager to take on challenging roles and con
 teams by implementing innovative problem-solving strategies.
 
 ## Skill
-[![My Skills](https://skillicons.dev/icons?i=Python,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,R,css,wasm)](https://skillicons.dev)
 
 
 
