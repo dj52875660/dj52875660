@@ -8,7 +8,7 @@ teams by implementing innovative problem-solving strategies.
 [![My Skills](https://skillicons.dev/icons?i=python,r)](https://skillicons.dev)
 
 ## Email
-[![My Email](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+[![My Email](https://skillicons.dev/icons?i=gmail)](dj52875660@gmail.com)
 
 
 
