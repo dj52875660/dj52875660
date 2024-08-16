@@ -5,7 +5,9 @@ business value through data insights. Eager to take on challenging roles and con
 teams by implementing innovative problem-solving strategies.
 
 ## Email
-dj52875660@gmail.com
+![image](dj52875660@gmail.com)
+
+
 
 
 <!--
