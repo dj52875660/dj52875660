@@ -1,8 +1,13 @@
-## Hi there 👋
+## About Me 👋
 Seasoned Data Scientist specializing in advanced technologies and data-driven solutions. Proficient in
 optimizing processes, leading to a remarkable 33% boost in product quality. Passionate about elevating
 business value through data insights. Eager to take on challenging roles and contribute to forward-thinking
 teams by implementing innovative problem-solving strategies.
+
+## Email
+dj52875660@gmail.com
+
+
 <!--
 **dj52875660/dj52875660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
